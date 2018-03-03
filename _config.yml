@@ -13,13 +13,12 @@ url:                 https://ette9844.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             *배우고  기록하기  위한*  \n*깃블로그*
+tagline:             배우고  기록하기  위한 깃블로그
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  알고리즘, 패턴을 기록하고 정리합니다.
-  고양이 두마리와 함께 사는 프로그래머.
+                    기록용 깃블로그. 내 고양이는 보들보들
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
