@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Android Studio
 slug: androidstudio
-category: develog
+category: study
 menu: false
 order: 2
 ---

@@ -1,10 +1,10 @@
 ---
 layout: list
 title: Develog
-slug: develog
+slug: doc
 menu: true
 submenu: true
 order: 8
 description: >
-  프로젝트, 개인 개발 진행상황 및 문제 해결 방법을 기록하는 곳.
+  프로젝트 개발 진행 상황을 기록하는 곳.
 ---
